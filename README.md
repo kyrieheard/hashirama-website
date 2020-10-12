@@ -1,2 +1,0 @@
-# hashirama-website
-hashirama-website
